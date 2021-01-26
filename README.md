@@ -1,4 +1,4 @@
-# awesome-dao-protocols
+# awesome-Crypto-Law-protocols
 Awesome Archives of Autonomous Organisations
 
 ## LAO Land
